@@ -2,7 +2,7 @@
 name: 'TheCodingMantra'
 description: 'Top Articles related to Coding!'
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/../images/favicon.ico'
 baseurl: '/mundana-theme-jekyll'
 disqus: 'thecodingmantra'
 email: 'joshipiyush217@gmail.com'
